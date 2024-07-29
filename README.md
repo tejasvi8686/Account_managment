@@ -4,14 +4,15 @@ This project is a React application that allows users to create and manage accou
 
 ## Features
 
-- Login Page
-- Registration Page
-- Account Management Page
+- User Registration
+- User Login
+- View and Edit Profile Information
 
 ## Technologies
 
-- React (v16+)
-- Bootstrap
+- React (16+)
+- Bootstrap (for styling)
+- React Router (for navigation)
 
 ## Getting Started
 
